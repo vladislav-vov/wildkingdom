@@ -896,6 +896,7 @@ body {
   color: #222220;
   border-radius: 3.125rem;
   overflow: hidden;
+  z-index: -1;
 }
 
 .no-webp .button::before{
@@ -1274,7 +1275,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   padding-top: 11.875rem;
-  padding-bottom: 3.75rem;
+  padding-bottom: 5rem;
 }
 
 .hero__content {
@@ -1294,7 +1295,7 @@ body {
 
 .hero__controll {
   position: absolute;
-  bottom: 0;
+  bottom: 1.875rem;
   right: 1.5625rem;
   display: -webkit-box;
   display: -ms-flexbox;
