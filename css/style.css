@@ -2464,6 +2464,10 @@ body {
     font-size: 1.5rem;
   }
 
+  .hero__slider {
+    margin: 0 -0.9375rem;
+  }
+
   .about__body:not(:last-child) {
     margin-bottom: 1.875rem;
   }
@@ -2581,6 +2585,10 @@ body {
 
   .menu-footer__link {
     font-size: 1.375rem;
+  }
+
+  .hero__container {
+    padding-top: 6.25rem;
   }
 
   .about__img {
